@@ -13,7 +13,7 @@ This application is a professional tool with a graphical user interface that ena
 <h1 align="center">DefaceGUI Logo</h1>
 
 <p align="center">
-  <img src="defaceguilo" alt="DefaceGUI Logo" width="150" height="150">
+  <img src="defaceguilo.png" alt="DefaceGUI Logo" width="150" height="150">
 </p>
 
 ----------------------------------
