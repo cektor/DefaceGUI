@@ -34,6 +34,13 @@ Linux (based debian) Terminal: Linux (debian based distributions) To install dir
 wget -O Setup_Linux64.deb https://github.com/cektor/DefaceGUI/releases/download/1.0.0/Setup_Linux64.deb && sudo apt install ./Setup_Linux64.deb && sudo apt-get install -f -y
 ```
 
+Windows Installation via CMD (PowerShell): Installing Windows Directly from the Command Prompt.
+```bash
+Invoke-WebRequest -Uri "https://github.com/cektor/DefaceGUI/releases/download/1.0.0/Setup_Win64.exe" -OutFile "Setup_Win64.exe"
+Start-Process -FilePath ".\Setup_Win64.exe" -Wait
+
+```
+
 
 
 Release Page: https://github.com/cektor/DefaceGUI/releases/tag/1.0.0
