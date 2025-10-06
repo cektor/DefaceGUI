@@ -20,8 +20,11 @@ This application is a professional tool with a graphical user interface that ena
 
 # Linux Screenshot
 ![Linux(pardus)](1.png)  
- 
+
+ # Windows Screenshot
+![windows11](2.png)  
 --------------------
+
 
 # To install directly on Linux
 
