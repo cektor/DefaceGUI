@@ -5,7 +5,7 @@
 # DefaceGUI 
 Graphical User Interface Face Anonymization Tool
 
-This application is a professional tool with a graphical user interface that enables anonymization of faces using the Deface Engine.
+This application is a professional tool with a graphical user interface that enables anonymization of faces using the Deface Engine. Cross-Platform Compatible (Linux-Windows)
 
 **Note:** Special thanks to [A. Serhet KILIÇOĞLU (Shampuan)](https://github.com/shampuan) for his significant contributions to the development and design.
 
